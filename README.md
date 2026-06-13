@@ -83,7 +83,7 @@
 
 ## 🧠 Competitive Programming
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/santheesh_01/?theme=dark&font=Baloo)](https://leetcode.com/santheesh_01/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/santheesh_01?theme=dark&font=Noto%20Sans%20Brahmi)
 
 ---
 
