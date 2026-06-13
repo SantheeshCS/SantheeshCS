@@ -47,10 +47,15 @@
 
 ### AI / Machine Learning
 
-<img height="65" src="https://skillicons.dev/icons?i=python" />
-<img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-<img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-<img height="65" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+<p align="left">
+  <img height="65" src="https://skillicons.dev/icons?i=python" />
+  &nbsp;
+  <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  &nbsp;
+  <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  &nbsp;
+  <img height="65" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+</p>
   
 ### Tools & Platforms
 
