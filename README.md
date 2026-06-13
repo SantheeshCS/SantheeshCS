@@ -9,7 +9,7 @@
 - 🔭 Currently working on AI-powered applications and Full Stack Projects
 - 🌱 Learning Machine Learning, Deep Learning, System Design & Cloud Computing
 - 👨‍💻 App Development Co-Lead at GDG KCE
-- 💡 Passionate about AI, Cyber Security, Web Development & Mobile Apps
+- 💡 Passionate about AI, Machine learning, Web Development & Mobile Apps
 - 🏆 Hackathon Participant and Competitive Programmer
 - ⚡ Fun Fact: I love building real-world software solutions
 
@@ -47,14 +47,11 @@
 
 ### AI / Machine Learning
 
-<img height="65" src="https://skillicons.dev/icons?i=python,tensorflow" />
-
-<p>
-  <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-  <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-  <img height="65" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
-</p>
-
+<img height="65" src="https://skillicons.dev/icons?i=python" />
+<img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img height="65" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+  
 ### Tools & Platforms
 
 <img height="65" src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
