@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Santheesh P M
 
 ### 🚀 Computer Science & Engineering (Cyber Security) Student
-### 📱 Software Developer | 🤖 AI Developer | 🧠 Machine Learning
+### 🤖 AI Developer | 🧠 Machine Learning
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
