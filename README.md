@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Santheesh P M
 
 ### 🚀 Computer Science & Engineering (Cyber Security) Student
-### 📱 Software Developer | 🤖 AI Developer | Machine Learning
+### 📱 Software Developer | 🤖 AI Developer | 🧠 Machine Learning
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -31,27 +31,33 @@
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,dart" />
+<img height="65" src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,dart" />
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+<img height="65" src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 
 ### Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,firebase" />
+<img height="65" src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,firebase" />
 
 ### Mobile App Development
 
-<img src="https://skillicons.dev/icons?i=flutter,firebase" />
+<img height="65" src="https://skillicons.dev/icons?i=flutter,firebase" />
 
-### AI / ML
+### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,scikit-learn" />
+<img height="65" src="https://skillicons.dev/icons?i=python,tensorflow" />
+
+<p>
+  <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+  <img height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  <img height="65" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+</p>
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
+<img height="65" src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
 
 ---
 
