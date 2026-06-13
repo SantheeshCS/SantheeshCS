@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Santheesh P M
 
 ### 🚀 Computer Science & Engineering (Cyber Security) Student
-### 📱 Flutter Developer | 🌐 MERN Stack Developer | 🤖 AI Enthusiast
+### 📱 Software Developer | 🤖 AI Developer | Machine Learning
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -47,11 +47,11 @@
 
 ### AI / ML
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,scikit-learn" />
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
 
 ---
 
@@ -67,11 +67,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=SantheeshCS&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SantheeshCS&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SantheeshCS&layout=compact&theme=tokyonight)
 
 ---
 
@@ -83,7 +83,7 @@
 
 ## 🧠 Competitive Programming
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo)](https://leetcode.com/santheesh_01/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/santheesh_01/?theme=dark&font=Baloo)](https://leetcode.com/santheesh_01/)
 
 ---
 
